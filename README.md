@@ -23,9 +23,11 @@ You can also **DOWNLOAD** ⬇️ the modified dataset.
 
 ## How to Use
 
-1. Clone the repository:
+1. Clone the repository: gh repo clone sourabh9854/ml-preprocessor-cli
+2. cd ML-Preprocessor-CLI/
+3. pip3 install -r requirements.txt
+4. Now run, python3 main.py [Dataset's Path]
+5. Ex: python3 main.py dataset.csv
 
-```bash
-git clone <repository-url>
-cd ml-preprocessor-cli
+
 
